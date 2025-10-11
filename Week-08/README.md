@@ -1,4 +1,4 @@
-# ?? Week 08 � Capstone Project & Reflection
+# ?? Week 08 — Capstone Project & Reflection
 
 ## ? Lesson Summary  
 (Add your weekly lesson summary here)
@@ -10,3 +10,7 @@
 
 ## ?? Reflection  
 > Your personal reflection for Week 8 ?  
+
+---
+
+⬅️ [Previous Week](../Week-07/README.md) 
