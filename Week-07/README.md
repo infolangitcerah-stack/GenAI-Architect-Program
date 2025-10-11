@@ -1,4 +1,4 @@
-# ?? Week 07 � Enterprise AI Systems
+# ?? Week 07 — Enterprise AI Systems
 
 ## ? Lesson Summary  
 (Add your weekly lesson summary here)
@@ -9,4 +9,9 @@
 - Point 3  
 
 ## ?? Reflection  
-> Your personal reflection for Week 7 ?  
+> Your personal reflection for Week 7 ?
+>
+> ---
+
+⬅️ [Previous Week](../Week-06/README.md) | [Next Week ➡️](../Week-08/README.md)
+
