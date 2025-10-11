@@ -77,4 +77,7 @@ Feeling inspired, empowered, and ready to dive into Week 3 — the era of LangCh
 📄 [View Week 2 Certificate (PDF)](../Certificates/Week-02.pdf)  
 *Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
 
+---
+
+⬅️ [Previous Week](../Week-01/README.md) | [Next Week ➡️](../Week-03/README.md)
 
