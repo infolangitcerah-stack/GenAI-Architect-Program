@@ -43,5 +43,5 @@ Each week includes:
 | 05 | Workflow Automation | [📄 View PDF](./Certificates/Week-05.pdf) |
 | 06 | Rise of the AI Agents | [📄 View PDF](./Certificates/Week-06.pdf) |
 
-📘 *Created with curiosity and passion by [Your Name]*  
+📘 *Created with curiosity and passion by Dominic Belavendram   
 📍 *GenAI Architect Course — 2025 Edition*
