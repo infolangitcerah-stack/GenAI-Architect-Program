@@ -1,8 +1,12 @@
 # 🎓 GenAI Architect Program — Student Learning Log  
 
+### 🧠 My 8-Week Journey in Building the Future with Artificial Intelligence
+
 Welcome to my **GenAI Architect Journey**! 🚀  
-My weekly learning log and reflections for the GenAI Architect Course (8-week journey) 🚀
+My weekly learning log and reflections for the GenAI Architect Program 🚀
 This repository documents my weekly progress, insights, and reflections as I explore the world of **Generative AI**, **Automation**, and **AI Agents**.
+
+From mastering **Python foundations** 🐍 to building **AI Agents and Micro-SaaS solutions**, this repository captures my weekly lessons, reflections, and growth as I progressed through each micro module.
 
 ---
 
@@ -27,7 +31,9 @@ Each week includes:
 - **Hands-on Projects** 🧩  
 - **Learning Reflections** 💭  
 - **Next Steps** 🚀  
+- **Certificate of Participation** 🏅
 
+  
 > “Learning AI is not about coding machines — it’s about teaching intelligence to grow.” 💡
 
 ---
