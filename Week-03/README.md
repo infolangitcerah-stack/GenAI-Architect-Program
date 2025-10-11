@@ -70,3 +70,11 @@ From writing embeddings in code to visually chaining them in Flowise, we learned
 
 Feeling confident and excited to move into Week 4 — where RAG evolves into full-fledged GenAI applications and automation 🚀🤖  
 
+---
+
+## 🏅 Certificate of Participation  
+
+📄 [View Week 3 Certificate (PDF)](../Certificates/Week-03.pdf)  
+*Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
+
+
