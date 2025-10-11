@@ -80,3 +80,11 @@ From understanding AI principles to writing our first scripts and automating tas
 
 Feeling focused, motivated, and ready to embrace Week 2 — where AI concepts turn into real intelligent systems 🤖💙  
 
+---
+
+## 🏅 Certificate of Participation  
+
+📄 [View Week 1 Certificate (PDF)](../Certificates/Week-01.pdf)  
+*Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
+
+
