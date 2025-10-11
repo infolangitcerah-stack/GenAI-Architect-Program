@@ -70,3 +70,11 @@ By learning to speak the language of AI, we unlocked the bridge between creativi
 
 Feeling inspired, empowered, and ready to dive into Week 3 — the era of LangChain and Flowise automation ⚙️🚀  
 
+---
+
+## 🏅 Certificate of Participation  
+
+📄 [View Week 2 Certificate (PDF)](../Certificates/Week-02.pdf)  
+*Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
+
+
