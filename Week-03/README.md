@@ -75,7 +75,7 @@ Feeling confident and excited to move into Week 4 — where RAG evolves into ful
 ## 🏅 Certificate of Participation  
 
 📄 [View Week 3 Certificate (PDF)](../Certificates/Week-03.pdf)  
-*Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
+*Awarded for completing Week 3 — Langchain Developer
 
 ---
 
