@@ -60,3 +60,11 @@ Each topic built upon the last, leading to a powerful realization:
 
 Feeling grateful, empowered, and excited to move forward into Week 7 — with confidence, curiosity, and creativity! 💪🔥
 Let’s keep building the future, one agent at a time 🤖💙> 
+
+---
+
+## 🏅 Certificate of Participation  
+
+📄 [View Week 6 Certificate (PDF)](../Certificates/Week-06.pdf)  
+*Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
+
