@@ -59,3 +59,8 @@ Python and AI aligned beautifully — logical code meeting creative intelligence
 “Learning isn’t about finishing challenges — it’s about growing through them.” 🌱✨  
 
 Feeling grateful, accomplished, and ready to charge into Week 5 with renewed energy and confidence 🔥🚀  
+
+---
+
+⬅️ [Previous Week](../Week-03/README.md) | [Next Week ➡️](../Week-05/README.md)
+
