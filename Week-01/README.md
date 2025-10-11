@@ -87,4 +87,7 @@ Feeling focused, motivated, and ready to embrace Week 2 — where AI concepts tu
 📄 [View Week 1 Certificate (PDF)](../Certificates/Week-01.pdf)  
 *Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
 
+---
+
+ [Next Week ➡️](../Week-02/README.md)
 
