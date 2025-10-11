@@ -66,7 +66,7 @@ Let’s keep building the future, one agent at a time 🤖💙>
 ## 🏅 Certificate of Participation  
 
 📄 [View Week 6 Certificate (PDF)](../Certificates/Week-06.pdf)  
-*Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
+*Awarded for completing Week 6 — AI Agent Developer   
 
 ---
 
