@@ -61,3 +61,6 @@ Feeling energized, confident, and ready to step into Week 6 — the era of AI Ag
 📄 [View Week 5 Certificate (PDF)](../Certificates/Week-05.pdf)  
 *Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
 
+---
+
+⬅️ [Previous Week](../Week-04/README.md) | [Next Week ➡️](../Week-06/README.md)
