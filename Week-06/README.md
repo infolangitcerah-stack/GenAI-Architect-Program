@@ -68,3 +68,6 @@ Let’s keep building the future, one agent at a time 🤖💙>
 📄 [View Week 6 Certificate (PDF)](../Certificates/Week-06.pdf)  
 *Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
 
+---
+
+⬅️ [Previous Week](../Week-05/README.md) | [Next Week ➡️](../Week-07/README.md)
