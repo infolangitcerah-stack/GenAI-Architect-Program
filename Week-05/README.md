@@ -53,3 +53,11 @@ By automating tasks, integrating tools, and testing flows, we learned that **tru
 > “Automation is the bridge between intelligence and impact — where ideas start working for you.” 💡🚀  
 
 Feeling energized, confident, and ready to step into Week 6 — the era of AI Agents and multi-agent coordination 🤖🔥  
+
+---
+
+## 🏅 Certificate of Participation  
+
+📄 [View Week 5 Certificate (PDF)](../Certificates/Week-05.pdf)  
+*Awarded for completing Week 1 — Foundations of AI, Python & RPA Automation*  
+
