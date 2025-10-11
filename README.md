@@ -31,6 +31,17 @@ Each week includes:
 > “Learning AI is not about coding machines — it’s about teaching intelligence to grow.” 💡
 
 ---
+---
+
+## 🏆 Certificates of Participation  
+
+| Week | Title | Certificate |
+|:----:|:------|:-------------|
+| 01 | Foundations of AI & Python | [📄 View PDF](./Certificates/Week-01.pdf) |
+| 02 | Prompt Engineering & GenAI Tools | [📄 View PDF](./Certificates/Week-02.pdf) |
+| 03 | LangChain & Flowise | [📄 View PDF](./Certificates/Week-03.pdf) |
+| 05 | Workflow Automation | [📄 View PDF](./Certificates/Week-05.pdf) |
+| 06 | Rise of the AI Agents | [📄 View PDF](./Certificates/Week-06.pdf) |
 
 📘 *Created with curiosity and passion by [Your Name]*  
 📍 *GenAI Architect Course — 2025 Edition*
