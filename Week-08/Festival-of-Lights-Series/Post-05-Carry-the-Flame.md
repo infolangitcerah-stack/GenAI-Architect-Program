@@ -15,3 +15,4 @@ Each of us, a glowing reminder that the brightest light is not in technology, bu
 The Festival of Lights teaches us to renew, to rise, to shine — and that’s exactly what this program has done for me.  
 I step forward now, not just as a learner, but as a **light-carrier** — proud to be a **GenAI Architect**, ready to ignite possibilities wherever I go ?????  
 
+

@@ -12,3 +12,4 @@ Through fine-tuning, building agents, and learning frameworks like RAG and ADK, 
 ### 💭 Reflection
 This Festival of Lights reminds me that **learning is the true flame** — and each of us, as GenAI Architects, carry a lamp of knowledge that can guide others.  
 As long as we keep learning, we’ll keep shining — brighter, together 🪔💡  
+
