@@ -1,15 +1,16 @@
-# ?? Post 3 — Clearing the Shadows
+ï»¿# ?? Post 3 â€” Clearing the Shadows
 **GenAI Architect Program | Festival of Lights Series** ??  
 
-Every journey has its light — and its shadows ????  
+Every journey has its light â€” and its shadows ????  
 In the world of AI, those shadows come as errors, bugs, and confusing outputs that test our patience and persistence.  
 
-But just like during the Festival of Lights, where we clean and brighten our homes before lighting the lamps, in learning AI we **clear the mental clutter** — the doubts, frustration, and fear of failing — to let understanding shine through ??  
+But just like during the Festival of Lights, where we clean and brighten our homes before lighting the lamps, in learning AI we **clear the mental clutter** â€” the doubts, frustration, and fear of failing â€” to let understanding shine through ??  
 
-There were times I spent hours fixing a broken n8n node, a missing bracket in code, or a fine-tuning loop that wouldn’t end. But each challenge was a shadow waiting for light — and every “Aha!” moment was a spark that burned brighter because of it ??  
+There were times I spent hours fixing a broken n8n node, a missing bracket in code, or a fine-tuning loop that wouldnâ€™t end. But each challenge was a shadow waiting for light â€” and every â€œAha!â€ moment was a spark that burned brighter because of it ??  
 
-> “Every bug you fix is a candle lit in the dark.” ??  
+> â€œEvery bug you fix is a candle lit in the dark.â€ ??  
 
 ### ?? Reflection
-True learning isn’t about avoiding the dark — it’s about *bringing your own light* when it gets hard to see.  
+True learning isnâ€™t about avoiding the dark â€” itâ€™s about *bringing your own light* when it gets hard to see.  
 The shadows make the glow meaningful, and each struggle makes the success shine brighter ???  
+
