@@ -20,7 +20,7 @@ From mastering **Python foundations** 🐍 to building **AI Agents and Micro-Saa
 | 04 | 📚 RAG Systems | Knowledge retrieval and vector stores |
 | 05 | 🔄 AI Automation | Workflows, tools, and n8n integration |
 | 06 | 🤖 AI Agents | Autonomous decision-making and multi-agent systems |
-| 07 | 🏢 Enterprise AI | Scaling, compliance, and deployment |
+| 07 | 🧩 AutoGen & Enterprise AI | Multi-agent collaboration, team orchestration, and deployment at scale |
 | 08 | 🏆 Capstone Project | Bringing it all together — demo + reflection |
 
 ---
