@@ -124,6 +124,8 @@ This week didn’t just close a program — it opened a path.
 Fine-tuning my models mirrored fine-tuning myself.
 With each workflow and reflection, I’ve learned that intelligence is not built by machines alone — it’s crafted by mindful humans.
 
+"Completed GenAI Architect Program"
+
 🪷 “The journey doesn’t end with a model; it continues with a mindset.”
 ---
 
